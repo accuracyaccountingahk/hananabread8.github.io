@@ -1,0 +1,15 @@
+<style>
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    margin-left: 100px;
+  }
+  .green{
+    color:MediumSeaGreen;
+  }
+  h1 {
+    border:5px solid mistyrose;
+    background-color: lightgray;
+    color:rgb(0, 113,113,0.5);
+  }
+</style>
